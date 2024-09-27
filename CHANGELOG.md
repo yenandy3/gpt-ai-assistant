@@ -1,5 +1,42 @@
 # Changelog
 
+## 4.9.1 (2024-07-10)
+
+### Bug Fixes
+
+- Update `talk` command
+
+## 4.9.0 (2024-07-10)
+
+### New Features
+
+- Support `gpt-4o` model
+
+## 4.8.4 (2024-07-06)
+
+### Bug Fixes
+
+- Update status page
+
+## 4.8.3 (2024-02-03)
+
+### Bug Fixes
+
+- Fix `maxDuration` for `vercel.json`
+
+## 4.8.2 (2024-02-03)
+
+### Bug Fixes
+
+- Use `gl` param for SerpApi
+- Remove `SERPAPI_LANG` environment variable
+
+## 4.8.1 (2024-02-03)
+
+### Bug Fixes
+
+- Add `maxDuration` for `vercel.json`
+
 ## 4.8.0 (2023-12-07)
 
 ### New Features
